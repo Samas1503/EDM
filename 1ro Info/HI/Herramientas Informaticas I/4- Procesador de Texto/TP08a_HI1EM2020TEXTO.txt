@@ -1,0 +1,101 @@
+Archivo
+
+Un archivo es un programa, un conjunto de datos utilizados por el programa o un documento creado por los usuarios. Los archivos son las unidades básicas de almacenamiento que permiten a la computadora distinguir entre los diversos conjuntos de información.
+Definición
+Conjunto de datos e instrucciones.
+El nombre de archivo permite identificar y administrar el archivo. 
+La extensión es un conjunto de caracteres añadido a un nombre de archivo para definir su tipo o clarificar su significado. Indica el formato, tipo de datos que contiene y el programa que requiere la computadora para visualizarlo o editarlo. Cabe señalar que la computadora realiza esta asociación de manera automática, siempre y cuando tenga habilitado el programa de cómputo requerido por el archivo.
+
+TIPOS DE ARCHIVOS
+Los tipos de archivo se diferencian en dos tipos:
+Ejecutables, son aquellos que han sido programados bajo algún lenguaje específico para realizar acciones y rutinas por sí mismos. 
+Ejemplo: .EXE ,  .COM , .BAT , .DLL, etc.
+De datos, son aquellos que, principalmente, contienen datos, y necesitan de una aplicación específica para ser abiertos. 
+Ejemplo: .TXT , .DOC , .XLS, etc
+TIPOS DE EXTENSIONES DE ARCHIVOS:
+DE TEXTO
+Dentro de los documentos de texto hemos de diferenciar entre el texto plano y el enriquecido. Es decir, entre los formatos que sencillamente guardan las letras (txt, log...) y los que podemos asignarles un tamaño, fuente, color, etc, (doc).
+.TXT: archivo de texto plano, sin gráficos. Se abre con cualquier editor de texto, incluido el Bloc de Notas, de Windows.
+.NFO: archivo de texto plano que suele incluirse como descripción del contenido de un archivo compactado .zip. Se ve con cualquier editor de texto.
+.HTML / .HTM: archivo de hipertexto, utilizado para la publicación de contenidos en la Web. Es un standard utilizado por los principales navegadores de Internet. Sirve para abrir estos archivos: Internet Explorer y Navigator.
+.DIC: diccionario para procesadores de texto. Se compone de texto plano y se abre como tal con cualquier procesador de texto.
+.DOC: archivo de texto con estilo. Se genera y se abre con los principales procesadores de texto para Windows: Microsoft Word, WordPerfect (antiguo), Display Write, WordStar.
+.DOCX: archivo de texto. Evolución del .doc  En este caso para el procesador de textos word2007.
+.WRI: archivo de texto con estilo generado por el accesorio de Windows Microsoft Write. Accesible con este programa o con cualquier procesador de texto.
+.RTF: Forrmato de archivo de texto enriquecido que permite intercambiar texto entre distintos procesadores de texto y en distintos sistemas operativos. Accesible con cualquier procesador de texto.
+COMPRIMIDOS
+Los formatos de compresión son de gran utilidad a la hora del almacenamiento de información ya que hacen que esta ocupe el menor espacio posible y que se puedan reunir muchos ficheros en uno sólo.
+.RAR: archivo compactado con la aplicación WinRAR y extraíble con la misma, uno de los dos más populares formatos de archivo compactado en la web (el otro es .zip).
+.ZIP: archivo compactado con la aplicación WinZip y extraíble con esta aplicación. Es uno de los dos formatos de archivo de compactado más populares. El otro es .rar
+DE AUDIO
+Los archivos de audio son todos los que contienen sonidos (no solo música). Las diferentes extensiones atienden al formato de compresión utilizado para convertir el sonido real en digital.
+
+.CDA: pista de audio digital de un Cd de música. Haciendo clic sobre él se lanza el Reproductor de CDs de Windows.
+.MID: archivo de música MIDI (Interfase Digital de Instrumento Musical). El software de instalación de la mayoría de las tarjetas de sonido dispone de un módulo para ejecutar archivos de sonido .mid.
+.MP3: archivo de audio comprimido bajo norma MPEG. Se ejecuta con aplicaciones como Winamp, Xing MPEG Player o Real Player, entre otros.
+.RA: archivo de sonido Real Audio. Se ejecuta con la aplicación Real Player.
+.SND: archivo de secuencia de sonido. Windows lo ejecuta automáticamente con su aplicación Rundll32.
+.WAV: sonido de onda de Windows, se puede abrir con la Grabadora de Sonidos de Windows.
+DE VIDEO
+Los formatos de video no sólo contienen imágenes sino también el sonido que las acompaña.
+Es bastante habitual que al intentar visualizar un vídeo no podamos ver la imagen aunque sí oigamos el sonido. Esto es debido al formato de compresión utilizado en ellos que puede no ser reconocido por nuestro ordenador, por ello siempre se ha de tener actualizados los codecs de cada uno de los formatos.
+.ASF, .LSF, .ASX: Archivo de secuencias de audio o video, se abre con el Reproductor Multimedia de Windows.
+.AVI: archivo de película de video de Microsoft Windows. Se abre con el Reproductor Multimedia de Windows.
+.MPA, .M1V, .MPG, .MPE, .MPEG: archivo de video comprimido bajo norma MPEG. Se ejecuta con el Reproductor Multimedia de Windows, o con reproductores comerciales como el Xing MPEG Player.
+.MOV, .QT: archivo de video en formato de Quicktime. Se ejecuta con la aplicación Quicktime Player.
+.RM, .RAM, .RV: archivo de video en formato propietario de Real Video. Se ejecuta con Real Player.
+.DiVX: archivo de video en formato DiVX:) conocido como el MP3 del video ya que permite niveles muy altos de compresión. Logra que una película que ocuparía un DVD entero (de hasta 7 GB), pueda grabarse en un CD-Rom común (de 700 MB) sin perder calidad.
+DE IMÁGENES 
+Poco hay que decir de las imágenes y de sus formatos salvo que cada uno de ellos utiliza un método de representación y que algunos ofrecen mayor calidad que otros. También cabe destacar que muchos programas de edición gráfica utilizan sus propios formatos de trabajo con imágenes.
+.BMP: archivo de mapa de bits de Windows. Se ve con el accesorio de Microsoft Paint o con cualquier visor de gráficos, como el ACDSee. archivo de diseño de la aplicación Corel Draw. Se ejecuta con la misma aplicación.
+.JPG .JPEG: uno de los más habituales archivos gráficos utilizado por numerosas cámaras fotográficas para almacenar nuestras fotos.
+.GIF: uno de los dos formatos de archivo de gráficos preferido en la Web (el otro es .JPG). Comprimido al igual que los .JPG, pero por otro sistema llamado LZW, patentado por Unisys. Se abre con cualquier visor de gráficos.
+.ICO: archivo de gráfico de ícono. Es utilizado por Windows para lanzar una aplicación con un clic sobre el mismo.
+.PCX: archivo de gráficos creado con PC Paintbrush, de Soft. Se abre teniendo instalada en Windows ésta aplicación. 
+.PIC: archivo de gráficos de PC Paint. Se ejecuta con esta aplicación.
+.PSD: archivo de mapa de bits hecho con Adobe Photoshop. Se ejecuta con esta aplicación o con un visor de gráficos, como ACDSee.
+.TGA: archivo de gráficos de alta definición hecho con tarjeta de video profesional Targa. Visible con adobe Photoshop o algún visor de gráficos.
+.WMF: sigla de Windows Metafile. Archivos que contienen información descriptiva respecto de un archivo de gráficos. Es el formato usado por las galerías de imágenes de Microsoft Office. Pueden verse con un visor de gráficos o convertirse a otros formatos de gráficos con la aplicación Hijaak Pro. 
+
+
+DE PROGRAMAS
+La mayoría de los programas tienen formatos de archivo propios para utilizarlos en distintas funciones. Al ser bastante habituales algunos de ellos, detallamos los más importantes aquí.
+POWERPOINT: .PPS (Presentación); .PPT (Presentación) .PPTX (Presentación ver.2007)
+WORD: .DOC, .DOT (Plantilla de Microsoft Word); .DOCX (version de word en office 2007)
+EXCEL: .XLS (Hoja de cálculo), .XLSX (hoja cálculo ver.2007) .CSV (Archivo de valores separados por comas); .XLK (Archivo de copia de seguridad); .XLM (Macro); MSN MESSENGER  .CTT (Lista de contactos)
+
+DE INTERNET
+
+ASP Active Server Pages
+CSS Documento de hoja de estilos en cascada
+HTA HTML Aplicacion
+HTM HTML Documento
+HTML HTML Documento
+HTT Plantilla de hipertexto
+JS JScript Script File
+JSE JScript Encoded Script File
+JSP Archivo JSP
+MHT MHTML Documento
+HTML MHTML Documento
+PHP Personal Home Page
+SHTM Archivo SHTM
+URL HTML Documento
+XML HTML Documento
+XSL Hoja de estilos XSL
+EML Outlook / Eudora / The Bat
+MBX Eudora Mailbox
+MSG Mensaje E-mail
+NWS News Mensaje
+
+
+DE SISTEMA 	
+Estos son los archivos necesarios para el funcionamiento interno del Sistema Operativo así como de los diferentes programas que trabajan en él.
+No esta recomendado moverlos, editarlos o variarlos de ningún modo porque pueden afectar al buen funcionamiento del sistema.
+Ejemplos: .BAT , .BIN, .COM, .DLL, .SYS , entre otros.
+
+
+
+
+
+
+
